@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, montilivi!");
             Console.WriteLine("I'm learning to use Github");
-            Console.WriteLine("Aleix");
+            Console.WriteLine("Aleix, Gay");
         }
     }
 }
